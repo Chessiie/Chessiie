@@ -20,6 +20,7 @@ You can reach me at 👇
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praniethchandrasekara/?originalSubdomain=lk)
 [![ResearchGate](https://img.shields.io/badge/researchgate-bee0cf?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pranieth-Chandrasekara)
 [![Tryhackme:](https://img.shields.io/badge/tryhackme-AAFF00?style=for-the-badge&logo=tryhackme&logoColor=black)](#)
+[![Youtube:](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@praniethchandrasekara6467?app=desktop)
 
 <div align="center">
   
