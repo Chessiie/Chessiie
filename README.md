@@ -1,8 +1,8 @@
-<h2>  Hey there,   <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"> I am Pranieth ! </h2>
+<h2>   <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"> Hey there, I am Pranieth! </h2>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
-I didn't just stumble into cybersecurity—I was forged by fire. From dissecting vulnerabilities to securing applications used by millions, my mission is clear: make software security seamless, scalable, and smart. 💡
+A passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
 <ul>
 <li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
