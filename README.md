@@ -1,4 +1,4 @@
-<h2>  Hey there ! <img src="https://giphy.com/gifs/pudgypenguins-deal-with-it-watch-this-rizz-hhpkjR55jE7RgcE53h" width="70">  </h2> 
+<h2>  Hey there ! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVjdmR1dThtcGhqeWt0Z3liZHY1dThzbzZoNzFjamhhY3gxYjVxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhpkjR55jE7RgcE53h/giphy.gif" width="70">  </h2> 
 
 ### Welcome to my corner of the Git  &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
