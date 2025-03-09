@@ -1,8 +1,8 @@
-<h2>  Hey there, <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">  Glad to see you here! </h2> 
+<h2>  Hey there, <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">  glad to see you here! </h2> 
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
+###  &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
-A passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
+I'm Pranieth, a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
 <ul>
 <li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
