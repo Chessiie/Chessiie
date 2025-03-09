@@ -1,8 +1,8 @@
-<h2>  Hey there, <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">  ! </h2> 
+<h2>  Hey there, <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">  </h2> 
 
-### Glad to see you here  &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
+### Welcome to my corner of the Git!  &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
-I'm Pranieth, a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
+I'm a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
 <ul>
 <li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
