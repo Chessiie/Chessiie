@@ -27,8 +27,8 @@ You can reach me at 👇
   
 Suggestions, issues, or PRs? I’d love to hear from you 🤝
 
-Enjoying my work? A coffee is always a nice treat! ☕️😊
+Enjoying my work? A coffee is always a nice treat! ☕️
 
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Suport" width="120" ></a>
 
 </div>
