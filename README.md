@@ -4,11 +4,12 @@
 
 I'm a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
-🔎 Areas of Interest
+🕵️‍♂️ Areas of Interest
 <ul>
-✅ Web & Mobile Security 
+✅ Web Security & Mobile Security 
+✅ Secure Software Development & DevSecOps
 ✅ Offensive Security & Ethical Hacking  
-✅ AI in Cybersecurity
+✅ AI & Machine Learning in Cybersecurity
 </ul>
 
 You can reach me at 👇
