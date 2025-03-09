@@ -28,6 +28,5 @@ You can reach me at 👇
   
 Suggestions, issues, or PRs? I’d love to hear from you 🤝
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Pranieth95"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pranieth95" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/praniethchandrasekara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 </div>
