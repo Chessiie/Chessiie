@@ -7,7 +7,8 @@ I'm a passionate Application Security Researcher hailing from the land of Serend
 <h3> 🕵️‍♂️ Areas of Interest </h3>
 <ul>
 ✅ Web & Mobile Security 
-✅ Secure Software Development & DevSecOps
+✅ Secure Software Development 
+✅ DevSecOps
 ✅ Offensive Security   
 ✅ AI in Cybersecurity
 </ul>
