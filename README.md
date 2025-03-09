@@ -1,4 +1,4 @@
-<h2>  Hey there ! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70">  </h2> 
+<h2>  Hey there ! <img src="https://giphy.com/gifs/pudgypenguins-deal-with-it-watch-this-rizz-hhpkjR55jE7RgcE53h" width="70">  </h2> 
 
 ### Welcome to my corner of the Git  &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
