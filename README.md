@@ -5,8 +5,9 @@
 I'm a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
 <ul>
-<li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
-<li>🇱🇰 From Sri Lanka </li>
+<li>✅ Web & Mobile Security </li>
+<li>✅ Offensive Security & Ethical Hacking </li>  
+<li>✅ AI in Cybersecurity</li>
 </ul>
 
 You can reach me at 👇
