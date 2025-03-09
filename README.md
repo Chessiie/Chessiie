@@ -17,7 +17,7 @@ You can reach me at 👇
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](https://praniethchandrasekara.medium.com)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/praniieth)
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praniethchandrasekara/?originalSubdomain=lk)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=researchgate&logoColor=white)](https://twitter.com/praniieth)
+[![ResearchGate](https://img.shields.io/badge/researchgate-1DA1F2?style=for-the-badge&logo=researchgate&logoColor=white)](https://twitter.com/praniieth)
 
 <div align="center">
   
