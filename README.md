@@ -8,8 +8,8 @@ I'm a passionate Application Security Researcher hailing from the land of Serend
 <ul>
 ✅ Web Security & Mobile Security 
 ✅ Secure Software Development & DevSecOps
-✅ Offensive Security & Ethical Hacking  
-✅ AI & Machine Learning in Cybersecurity
+✅ Offensive Security   
+✅ AI in Cybersecurity
 </ul>
 
 You can reach me at 👇
