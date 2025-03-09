@@ -1,16 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pranieth</h1>
-<h3 align="center">A passionate Application Security Researcher hailing from the land of Serendib, Sri Lanka.</h3>
+<h2> 😎 Hi,  I am Pranieth ! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranieth95&label=Profile%20views&color=0e75b6&style=flat" alt="pranieth95" /> </p>
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
-<p align="left"> <a href="https://twitter.com/praniieth" target="blank"><img src="https://img.shields.io/twitter/follow/praniieth?logo=twitter&style=for-the-badge" alt="praniieth" /></a> </p>
+I didn't just stumble into cybersecurity—I was forged by fire. From dissecting vulnerabilities to securing applications used by millions, my mission is clear: make software security seamless, scalable, and smart. 💡
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/praniieth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praniieth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praniethchandrasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praniethchandrasekara" height="30" width="40" /></a>
-<a href="https://medium.com/@praniethchandrasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@praniethchandrasekara" height="30" width="40" /></a>
-</p>
+<ul>
+<li>👨‍🎓 Graduated at SLIIT specializing in Cyber Security.</li>
+<li>🇱🇰 From Sri Lanka </li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+You can reach me at 👇
+
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](https://praniethchandrasekara.medium.com)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/praniieth)
+[![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praniethchandrasekara/?originalSubdomain=lk)
+[![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)]()
+
+<div align="center">
+  
+
+
+---
+  
+Feel free to give Your Suggestions, Issues or PRs🌍
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
+
+</div>
