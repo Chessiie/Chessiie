@@ -4,7 +4,7 @@
 
 I'm a passionate Application Security Researcher hailing from the land of Serendib, 🇱🇰 
 
-🕵️‍♂️ Areas of Interest
+<h3> 🕵️‍♂️ Areas of Interest </h3>
 <ul>
 ✅ Web Security & Mobile Security 
 ✅ Secure Software Development & DevSecOps
