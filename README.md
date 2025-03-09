@@ -1,4 +1,4 @@
-<h2>   <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"> Hey there, I am Pranieth!  Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95) </h2>
+<h2>   <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"> Hey there, I am Pranieth! </h2> ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranieth95)
 
 
 
