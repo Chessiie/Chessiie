@@ -23,11 +23,9 @@ You can reach me at 👇
 
 <div align="center">
   
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranieth95"
-/>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranieth95&layout=compact&theme=dark&hide_border=true)
   
 Suggestions, issues, or PRs? I’d love to hear from you 🤝
 
