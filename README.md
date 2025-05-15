@@ -29,8 +29,5 @@ You can reach me at 👇
   
 Suggestions, issues, or PRs? I’d love to hear from you 🤝
 
-☕ Support my work with a cup of coffee! 
-
-<a href="https://www.buymeacoffee.com/pranieth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120" ></a>
 
 </div>
