@@ -19,7 +19,7 @@ You can reach me at 👇
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/praniieth)
 [![ResearchGate](https://img.shields.io/badge/researchgate-bee0cf?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pranieth-Chandrasekara)
 
-<script src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3572529" style='border:none;'></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Chessiie.png" alt="Your Image Badge" />
 
 <div align="center">
   
