@@ -19,9 +19,6 @@ You can reach me at 👇
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/praniieth)
 [![ResearchGate](https://img.shields.io/badge/researchgate-bee0cf?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pranieth-Chandrasekara)
 
-## 🛡️ TryHackMe Progress
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Chessiie.png)](https://tryhackme.com/p/Chessiie)
 
 
 <div align="center">
