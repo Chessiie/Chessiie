@@ -6,8 +6,7 @@ I'm a passionate Application Security Researcher hailing from the land of Serend
 
 <h3> 🕵️‍♂️ Areas of Interest </h3>
 <ul>
-✅ Web & Mobile Security 
-✅ Secure Software Development 
+✅ Web, Mobile & API Security 
 ✅ DevSecOps
 ✅ Offensive Security   
 ✅ AI in Cybersecurity
@@ -20,6 +19,7 @@ You can reach me at 👇
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/praniieth)
 [![ResearchGate](https://img.shields.io/badge/researchgate-bee0cf?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Pranieth-Chandrasekara)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3572529" style='border:none;'></iframe>
 
 <div align="center">
   
@@ -27,7 +27,7 @@ You can reach me at 👇
 ---
 
   
-Suggestions, issues, or PRs? I’d love to hear from you 🤝
+Suggestions, issues, or PRs? I’d love to hear from you!
 
 
 </div>
